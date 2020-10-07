@@ -1,0 +1,27 @@
+INFO:
+
+October 06, 2020 - 20:22:34
+
+INFO:--> Listening on localhost:65000
+INFO:+ --> [Server] Connection Established with Client ('127.0.0.1', 63001)
+INFO:+ --> [Server] Content Delivered.
+INFO:--> Listening on localhost:65000
+INFO:
+
+October 06, 2020 - 20:24:49
+
+INFO:--> Listening on localhost:65000
+INFO:+ --> [Server] Connection Established with Client ('127.0.0.1', 63016)
+INFO:+ --> [Server] Content Delivered.
+INFO:--> Listening on localhost:65000
+INFO:
+
+October 06, 2020 - 20:26:50
+
+INFO:--> Listening on localhost:65000
+INFO:+ --> [Server] Connection Established with Client ('127.0.0.1', 63044)
+INFO:+ --> [Server] Content Delivered.
+INFO:--> Listening on localhost:65000
+INFO:+ --> [Server] Connection Established with Client ('127.0.0.1', 63054)
+INFO:+ --> [Server] Content Delivered.
+INFO:--> Listening on localhost:65000
